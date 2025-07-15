@@ -35,10 +35,10 @@ Sitio web promovido por Branker para la convocatoria de creadores de contenido. 
 
 ## 🖼️ Capturas
 
-![Landing Selección de Creadores](./screenshot-selec1.png)  
+![Landing Selección de Creadores](./Screenshot_1.png)  
 *Pantalla principal con banner y sección de inscripción.*
 
-![Formulario de Inscripción](./screenshot-selec2.png)  
+![Formulario de Inscripción](./Screenshot_2.png)  
 *Formulario optimizado para móviles y desktop.*
 
 ---
